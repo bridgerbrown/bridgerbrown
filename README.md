@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! My name is Bridger Brown
+
+I am a Backend developer currently working for the company NeuroFlow
+
+[![Bridger's GitHub stats](https://github-readme-stats.vercel.app/api?username=bridgerbrown)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bridgerbrown/bridgerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
