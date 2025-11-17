@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Bridger Brown.
 
-- Backend developer with some experience in Frontend
-- Software Engineer for NeuroFlow
+- Backend and Frontend development
+- Backend Developer for NeuroFlow
 - I love using NeoVim and split-keyboards!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bridgerbrown&hide_progress=true)
