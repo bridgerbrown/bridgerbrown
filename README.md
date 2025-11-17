@@ -1,6 +1,6 @@
-## Hello! My name is Bridger Brown
+## 👋 Hello! I'm Bridger Brown.
 
-- Backend developer with some Frontend experience
+- Backend developer with some experience in Frontend
 - Software Engineer for NeuroFlow
 - I love using NeoVim and split-keyboards!
 
