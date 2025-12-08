@@ -4,8 +4,6 @@
 - Backend Developer for NeuroFlow
 - I love using NeoVim and split-keyboards!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bridgerbrown&hide_progress=true)
-
 <!--
 **bridgerbrown/bridgerbrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
