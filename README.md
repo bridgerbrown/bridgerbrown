@@ -1,7 +1,7 @@
 ## 👋 Hello! I'm Bridger Brown.
 
-- Backend and Frontend development
-- Backend Developer for NeuroFlow
+- Backend Software Engineer
+- Experienced in Frontend development
 - I love using NeoVim and split-keyboards!
 
 <!--
